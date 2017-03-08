@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PUISSANCE_4.dir/main.c.o CMakeFiles/PUISSANCE_4.dir/connect_four.c.o CMakeFiles/PUISSANCE_4.dir/computer.c.o CMakeFiles/PUISSANCE_4.dir/check.c.o CMakeFiles/PUISSANCE_4.dir/render_ncurses.c.o  -o PUISSANCE_4 

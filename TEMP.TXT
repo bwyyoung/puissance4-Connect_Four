@@ -1,0 +1,4 @@
+	NCURSES.ch = getch();
+		if (NCURSES.ch == ERR)
+			return ;
+		ungetch(NCURSES.ch);
